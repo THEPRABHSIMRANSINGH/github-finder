@@ -1,1 +1,1 @@
-# LinkedIn-Search-API
+# Github-Username-Search-API
